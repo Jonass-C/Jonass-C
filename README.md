@@ -26,14 +26,16 @@ Estudante de Engenharia de Computação com foco em backend e boas práticas de 
 - 📌 **[Iniciação Científica — Visão Computacional](https://github.com/profDarlanBrito/AugmentedRealityCpp)**  
   Pesquisa aplicada em visão computacional com foco em processamento de imagens e reconhecimento de objetos 3D.
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jonass-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jonass-C&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonass-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 Linguagens mais usadas
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonass-C&layout=compact&theme=dark&langs_count=6&hide_border=true)
 
 ---
 
 <!---
+![](https://github-readme-stats.vercel.app/api?username=Jonass-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jonass-C&theme=dark&hide_border=false)<br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jonass-C&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
